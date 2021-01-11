@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7E2EBF90-15C2-4A4E-8194-42C7E1F5E5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyMapper.Domain", "src\ProxyMapper.Domain\ProxyMapper.Domain.csproj", "{9CD82E56-1E77-4D5A-90AF-02BA32FED90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyMapper.Web", "src\ProxyMapper.Web\ProxyMapper.Web.csproj", "{FB8A5058-F760-470A-8D66-550D02616EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD82E56-1E77-4D5A-90AF-02BA32FED90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD82E56-1E77-4D5A-90AF-02BA32FED90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD82E56-1E77-4D5A-90AF-02BA32FED90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD82E56-1E77-4D5A-90AF-02BA32FED90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8A5058-F760-470A-8D66-550D02616EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8A5058-F760-470A-8D66-550D02616EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8A5058-F760-470A-8D66-550D02616EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8A5058-F760-470A-8D66-550D02616EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9CD82E56-1E77-4D5A-90AF-02BA32FED90A} = {7E2EBF90-15C2-4A4E-8194-42C7E1F5E5F3}
+		{FB8A5058-F760-470A-8D66-550D02616EE8} = {7E2EBF90-15C2-4A4E-8194-42C7E1F5E5F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF492D60-7015-4F04-86E4-23C0E7CFF8E3}
+	EndGlobalSection
+EndGlobal

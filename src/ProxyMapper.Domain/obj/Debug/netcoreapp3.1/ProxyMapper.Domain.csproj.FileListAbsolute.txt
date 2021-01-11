@@ -1,0 +1,9 @@
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\bin\Debug\netcoreapp3.1\ProxyMapper.Domain.deps.json
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\bin\Debug\netcoreapp3.1\ProxyMapper.Domain.dll
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\bin\Debug\netcoreapp3.1\ProxyMapper.Domain.pdb
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\obj\Debug\netcoreapp3.1\ProxyMapper.Domain.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\obj\Debug\netcoreapp3.1\ProxyMapper.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\obj\Debug\netcoreapp3.1\ProxyMapper.Domain.AssemblyInfo.cs
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\obj\Debug\netcoreapp3.1\ProxyMapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\obj\Debug\netcoreapp3.1\ProxyMapper.Domain.dll
+C:\Users\aleks\source\repos\ProxyMapper\src\ProxyMapper.Domain\obj\Debug\netcoreapp3.1\ProxyMapper.Domain.pdb
